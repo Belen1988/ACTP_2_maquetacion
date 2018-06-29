@@ -1,0 +1,29 @@
+
+.barraprincipal{
+	background-color: black;
+	color:white;
+}
+
+.logoheader{
+	width:50%;
+	margin-left:80px;
+}
+.header{
+	background-image:url(assets/img/post-image.jpg);
+	height:400px;
+	background-size:cover;
+	font-size: 4.5em;
+	color:white;
+	text-align: center;
+}
+
+.naomi{
+	max-width: 80px;
+
+}
+
+.entrada{
+	margin-top: 80px;
+	margin-bottom: 150px;
+
+}
